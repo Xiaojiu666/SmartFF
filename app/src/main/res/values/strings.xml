@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">东霖远程监控系统</string>
+    <string name="bottom_title_home">首页</string>
+    <string name="bottom_title_notifications">报警信息</string>
+    <string name="bottom_title_monitor">系统监控</string>
+    <string name="bottom_title_preson">个人中心</string>
+
+    <!--    homeString-->
+    <string name="home_sacn">扫一扫</string>
+    <string name="home_takephoto">拍照上传</string>
+    <string name="home_nfc">NFC巡检</string>
+    <string name="home_ffmaterial">消防物资管理</string>
+    <string name="home_putff">火灾隐患一张图</string>
+    <string name="home_repair_his">维修记录</string>
+    <string name="home_fir_his">火灾溯源</string>
+    <string name="home_excel_one_day">当日24小时报警记录</string>
+    <string name="orgNameTest">北京OBE互联网创新园</string>
+
+
+    <!-- alarmString-->
+    <string name="alarm_day_info">今日</string>
+    <string name="alarm_week_info">本周</string>
+    <string name="alarm_month_info">本月</string>
+    <string name="alarm_year_info">今年</string>
+    <string name="alarm_info_name">OBE1号楼 1号火系统 点型烟感探测器 被管理员XX 确认为真实火警 </string>
+    <string name="alarm_info_desc">点型烟感探测器 是否故障 是 是否火警 是 是否主电故障 是 是否备电故障是 是否 通讯故障 是 是否 链路故障 是</string>
+
+
+</resources>
